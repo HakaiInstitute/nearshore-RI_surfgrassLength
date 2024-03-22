@@ -1,1 +1,21 @@
-variable,long_name,units,standard_name,comment
+table,variable,category,units,description
+surfgrass_length_density-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
+surfgrass_length_density-surveys.csv,site_name,character,NA,Rocky intertidal site where survey was conducted
+surfgrass_length_density-surveys.csv,observer,character,NA,The individual(s) who conducted the survey
+surfgrass_length_density-surveys.csv,time,date,00(hr):00(min),Time (24hr clock) when survey was started (TZ = PDT/PST)
+surfgrass_length_density-surveys.csv,tide_height_at_survey_time,numeric,m,Tide height when survey was conducted - ideally near the beginning of the survey
+surfgrass_length_density-surveys.csv,distance,numeric,m,Distance along the transect where the observed quadrat was placed was placed
+surfgrass_length_density-surveys.csv,left_right,character,NA,"Whether the quadrat was placed on the right or left of the transect, relative to 0m -> 20m"
+surfgrass_length_density-surveys.csv,phyllospadix_species,character,NA,Species of Phyllospadix being surveyed for a given record
+surfgrass_length_density-surveys.csv,quad_density,numeric,NA,Number of Phyllospadix shoots in a 12.5x12.5cm subplot of the quadrat
+surfgrass_length_density-surveys.csv,flowering_shoots_count,numeric,NA,Number of flowering Phyllospadix shoots in the quadrat
+surfgrass_length_density-surveys.csv,canopy_height,numeric,cm,Average Phyllospadix canopy height in the quadrat
+surfgrass_length_density-surveys.csv,epiphyte_species,character,NA,Major epiphyte species growing on Phyllospadix in the quadrat
+surfgrass_length_density-surveys.csv,epiphyte_cover,numeric,%,Percent cover of epiphytes growing on Phyllospadix in the quadrat
+surfgrass_length_density-surveys.csv,abraded_grass,numeric,%,"Percent cover of abraded Phyllospadix in the quadrat (T = ""trace"" or <1% cover)"
+surfgrass_length_density-surveys.csv,bleached_brown_grass_cover,numeric,%,Percent cover of bleached/brown Phyllosapdix in the quadrat
+surfgrass_length_density-surveys.csv,flowering_shoots_cover,numeric,%,Percent cover of flowering Phyllospadix shoots in the quadrat
+surfgrass_length_density-surveys.csv,phyllospadix_cover,numeric,%,Percent cover of all Phyllospadix species in the quadrat
+surfgrass_length_density-surveys.csv,notes,character,NA,Records anything of note about a given observation
+surfgrass_length_density-surveys.csv,entered_by,character,NA,Initials of the individual(s) who entered the data
+surfgrass_length_density-surveys.csv,checked_by,character,NA,Initials of the individual(s) who QCd the data

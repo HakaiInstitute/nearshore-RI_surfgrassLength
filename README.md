@@ -1,4 +1,4 @@
-# hakai-dataset-repository-template
+# Seastar & Macroinvertebrate Dynamics: Swaths
 
 <div float="left">
 <img src=docs/logos/tula-logo.png />
