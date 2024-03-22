@@ -1,4 +1,4 @@
-# Seastar & Macroinvertebrate Dynamics: Swaths
+# Surfgrass Community Structure: Length & Density
 
 <div float="left">
 <img src=docs/logos/tula-logo.png />
