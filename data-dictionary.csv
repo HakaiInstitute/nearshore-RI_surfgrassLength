@@ -3,7 +3,7 @@ surfgrass_length_density-surveys.csv,date,date,yyyy-mm-dd,Date on which the surv
 surfgrass_length_density-surveys.csv,site_name,character,NA,Rocky intertidal site where survey was conducted
 surfgrass_length_density-surveys.csv,observer,character,NA,The individual(s) who conducted the survey
 surfgrass_length_density-surveys.csv,time,date,00(hr):00(min),Time (24hr clock) when survey was started (TZ = PDT/PST)
-surfgrass_length_density-surveys.csv,tide_height_at_survey_time,numeric,m,Tide height when survey was conducted - ideally near the beginning of the survey
+surfgrass_length_density-surveys.csv,tide_height_at_survey_time,numeric,m,Tide height when survey was conducted - ideally near the beginning of the survey *Stopped recording after Feb 2023 
 surfgrass_length_density-surveys.csv,distance,numeric,m,Distance along the transect where the observed quadrat was placed was placed
 surfgrass_length_density-surveys.csv,left_right,character,NA,"Whether the quadrat was placed on the right or left of the transect, relative to 0m -> 20m"
 surfgrass_length_density-surveys.csv,phyllospadix_species,character,NA,Species of Phyllospadix being surveyed for a given record
