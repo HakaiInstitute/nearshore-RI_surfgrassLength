@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning]
 (https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
+- Survey data from February 2024
+
+## [3.2.0] - 2025-03-28
+### Changed
+- Updated survey spreadsheet with survey data up to November 2024
+- Updated README
 
 ## [3.1.0] - 2024-01-26
 ### Changed
