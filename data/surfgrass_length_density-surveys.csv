@@ -2005,3 +2005,243 @@ date,site_name,observer,time,tide_height_at_survey_time,distance,left_right,phyl
 2024-11-18,North Beach,TF/DVM/DCO,2024-11-18 19:33:00,NA,8.5,L,Phyllospadix scouleri,17,0,40,NA,0,NA,NA,NA,NA,NA,HK,DCO
 2024-11-18,North Beach,TF/DVM/DCO,2024-11-18 19:33:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,HK,DCO
 2024-11-18,North Beach,TF/DVM/DCO,2024-11-18 19:33:00,NA,9.5,R,Phyllospadix scouleri,8,0,26,NA,0,NA,NA,NA,NA,NA,HK,DCO
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,0.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,1.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,3.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,4.5,L,Phyllospadix torreyi,32,0,68,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,4.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,5.5,R,Phyllospadix torreyi,66,0,76,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,5.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,6.5,L,Phyllospadix torreyi,44,0,48,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,7.5,R,Phyllospadix scouleri,12,0,15,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-08,Fifth Beach,DCO/GSB,2025-02-08 15:43:00,NA,9.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,DVM
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,0.5,L,Phyllospadix scouleri,26,0,30,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,1.5,R,Phyllospadix scouleri,14,0,20,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,2.5,L,Phyllospadix scouleri,25,0,50,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,3.5,R,Phyllospadix scouleri,9,0,30,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,4.5,L,Phyllospadix scouleri,13,0,35,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,5.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,6.5,L,Phyllospadix scouleri,5,0,10,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,7.5,R,Phyllospadix scouleri,9,0,15,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-09,West Beach,DVM/GSB,2025-02-09 16:48:00,NA,9.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,0.5,L,Phyllospadix scouleri,16,0,25,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,1.5,R,Phyllospadix scouleri,47,0,50,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,3.5,R,Phyllospadix scouleri,25,0,70,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,4.5,L,Phyllospadix scouleri,14,0,65,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,5.5,R,Phyllospadix scouleri,24,0,40,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,7.5,R,Phyllospadix scouleri,2,0,10,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,8.5,L,Phyllospadix scouleri,1,0,20,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-02-11,North Beach,DVM,2025-02-11 17:09:00,NA,9.5,R,Phyllospadix scouleri,7,0,15,NA,0,NA,NA,NA,NA,NA,KB,DVM
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,0.5,L,Phyllospadix torreyi,7,0,76,MEME,15,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,0.5,L,Phyllospadix scouleri,21,2,117,MEME,15,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,1.5,R,Phyllospadix scouleri,23,0,66,MEME,15,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,2.5,L,Phyllospadix scouleri,17,3,102,MEME,20,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,3.5,R,Phyllospadix scouleri,63,3,92,MEME,20,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,4.5,L,Phyllospadix scouleri,34,1,92,MEME,15,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,5.5,R,Phyllospadix scouleri,5,2,26,MEME,1,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,6.5,L,Phyllospadix scouleri,2,0,14,MEME,1,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,7.5,R,Phyllospadix scouleri,25,0,33,MEME,5,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-12,West Beach,"TF, LK",2025-06-12 09:10:00,NA,9.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DVM,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,0.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,1.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,3.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,4.5,L,Phyllospadix torreyi,52,0,79,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,4.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,5.5,R,Phyllospadix torreyi,139,0,86,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,5.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,7.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-14,Fifth Beach,"IH, DVM",2025-06-14 11:05:00,NA,9.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,0.5,L,Phyllospadix scouleri,19,0,55,NA,0,NA,NA,NA,NA,5% bleached,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,1.5,R,Phyllospadix scouleri,40,6,60,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,3.5,R,Phyllospadix scouleri,15,0,55,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,4.5,L,Phyllospadix scouleri,18,2,100,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,5.5,R,Phyllospadix scouleri,14,6,35,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,7.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,8.5,L,Phyllospadix scouleri,10,0,40,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-15,North Beach,"TF, DVM",2025-06-15 10:25:00,NA,9.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-06-16,North Beach,"TF, DVM",2025-06-16 11:25:00,NA,9.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,LK,IH
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:32:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:32:00,NA,0.5,L,Phyllospadix scouleri,13,0,98,MEME,5,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:37:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:37:00,NA,1.5,R,Phyllospadix scouleri,41,3,151.5,MEME,20,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:42:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:42:00,NA,2.5,L,Phyllospadix scouleri,39,3,151,MEME,35,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:47:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:47:00,NA,3.5,R,Phyllospadix scouleri,46,3,147,MEME,30,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:52:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:52:00,NA,4.5,L,Phyllospadix scouleri,60,4,95,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:57:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 06:57:00,NA,5.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,"seagrass in half the quad, but not in the corner closest to the transect tape",DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:02:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:02:00,NA,6.5,L,Phyllospadix scouleri,97,0,86,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:07:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:07:00,NA,7.5,R,Phyllospadix scouleri,9,0,21.5,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:12:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:12:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:17:00,NA,9.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-21,West Beach,"KB, DL",2025-08-21 07:17:00,NA,9.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,KB
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,0.5,L,Phyllospadix scouleri,29,0,51,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,1.5,R,Phyllospadix scouleri,60,0,47,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,3.5,R,Phyllospadix scouleri,6,1,66.5,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,4.5,L,Phyllospadix scouleri,12,0,130,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,5.5,R,Phyllospadix scouleri,77,0,35,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,7.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,9.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-24,North Beach,"KB, DL",2025-08-24 09:02:00,NA,9.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,TF,DL
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,0.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,1.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,3.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,4.5,L,Phyllospadix torreyi,135,2,107,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,4.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,5.5,R,Phyllospadix torreyi,155,0,130,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,5.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,6.5,L,Phyllospadix torreyi,13,0,63,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,7.5,R,Phyllospadix scouleri,5,0,22,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-08-25,Fifth Beach,"KB,DCO",2025-08-25 08:45:00,NA,9.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,DCO
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,0.5,L,Phyllospadix scouleri,31,0,38,MEME,NA,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,1.5,R,Phyllospadix scouleri,44,0,53,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,3.5,R,Phyllospadix scouleri,19,0,44,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,4.5,L,Phyllospadix scouleri,43,0,110,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,5.5,R,Phyllospadix scouleri,20,0,470,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,7.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,8.5,L,Phyllospadix scouleri,7,0,30,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-04,North Beach,"TF,DVM",2025-11-04 16:39:00,NA,9.5,R,Phyllospadix scouleri,3,0,17,NA,0,NA,NA,NA,NA,NA,KB,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,0.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,1.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,2.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,3.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,4.5,L,Phyllospadix torreyi,37,0,111,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,4.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,5.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,6.5,L,Phyllospadix torreyi,62,0,87,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,6.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,7.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-06,Fifth Beach,"DCO, TF",2025-11-06 18:30:00,NA,9.5,R,Phyllospadix scouleri,0,0,0,NA,0,NA,NA,NA,NA,NA,DCO,TF
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,0.5,L,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,0.5,L,Phyllospadix scouleri,7,0,48,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,1.5,R,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,1.5,R,Phyllospadix scouleri,20,0,76,MEME,20,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,2.5,L,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,2.5,L,Phyllospadix scouleri,16,0,84,MEME,20,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,3.5,R,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,3.5,R,Phyllospadix scouleri,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,4.5,L,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,4.5,L,Phyllospadix scouleri,27,0,58,MEME,20,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,5.5,R,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,5.5,R,Phyllospadix scouleri,8,0,30,MEME,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,6.5,L,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,6.5,L,Phyllospadix scouleri,11,0,45,MEME,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,7.5,R,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,7.5,R,Phyllospadix scouleri,49,0,50,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,8.5,L,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,8.5,L,Phyllospadix scouleri,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,9.5,R,Phyllospadix torreyi,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
+2025-11-07,West Beach,TF/DVM,2025-11-07 20:30:00,NA,9.5,R,Phyllospadix scouleri,0,0,0,NA,NA,NA,NA,NA,NA,NA,KB,DCO
