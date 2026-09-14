@@ -30,7 +30,7 @@ See the changelog for the specific changes to this dataset included in each rele
 ## Survey Methods
 
 This data package collects data and information relating to surveys 
-conducted in surfgrass beds on Calvert Island BC, starting in 2017. Shoot counts, average length, and other metrics of ***Phyllospadix spp.*** were measured in quadrats along a transect at each site. For a detailed description, please see the Rocky Intertidal protocol contained in this dataset.
+conducted in surfgrass beds on Calvert Island BC, starting in 2018. Shoot counts, average length, and other metrics of ***Phyllospadix spp.*** were measured in quadrats along a transect at each site. For a detailed description, please see the Rocky Intertidal protocol contained in this dataset.
 
 ## Resources
 

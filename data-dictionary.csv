@@ -10,9 +10,10 @@ surfgrass_length_density-surveys.csv,phyllospadix_species,character,NA,Species o
 surfgrass_length_density-surveys.csv,quad_density,numeric,NA,Number of Phyllospadix shoots in a 12.5x12.5cm subplot of the quadrat
 surfgrass_length_density-surveys.csv,flowering_shoots_count,numeric,NA,Number of flowering Phyllospadix shoots in the quadrat
 surfgrass_length_density-surveys.csv,canopy_height,numeric,cm,Average Phyllospadix canopy height in the quadrat
+surfgrass_length_density-surveys.csv,epiphyte_species_code,character,NA,Shorthand code for major epiphyte species growing on Phyllospadix in the quadrat
 surfgrass_length_density-surveys.csv,epiphyte_species,character,NA,Major epiphyte species growing on Phyllospadix in the quadrat
 surfgrass_length_density-surveys.csv,epiphyte_cover,numeric,%,Percent cover of epiphytes growing on Phyllospadix in the quadrat
-surfgrass_length_density-surveys.csv,abraded_grass,numeric,%,"Percent cover of abraded Phyllospadix in the quadrat (T = ""trace"" or <1% cover)"
+surfgrass_length_density-surveys.csv,abraded_grass_cover,numeric,%,"Percent cover of abraded Phyllospadix in the quadrat (T = ""trace"" or <1% cover)"
 surfgrass_length_density-surveys.csv,bleached_brown_grass_cover,numeric,%,Percent cover of bleached/brown Phyllosapdix in the quadrat
 surfgrass_length_density-surveys.csv,flowering_shoots_cover,numeric,%,Percent cover of flowering Phyllospadix shoots in the quadrat
 surfgrass_length_density-surveys.csv,phyllospadix_cover,numeric,%,Percent cover of all Phyllospadix species in the quadrat
